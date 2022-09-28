@@ -6,7 +6,7 @@
 </head>
 <body>
  
-	<p>Seri Tutorial Laravel Lengkap Dari Dasar</p>
+	<p>Seri Tutorial Lengkap Dari Dasar</p>
  
 </body>
 </html>
